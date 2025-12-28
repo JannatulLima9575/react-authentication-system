@@ -1,0 +1,60 @@
+## Interview Questions:
+
+## Basic Level:
+    1. Basic Level (Must Know)
+    2. What is Authentication?
+    3. Authentication vs Authorization — what’s the difference?
+    4. Why is Authentication important in web applications?
+    5. What are common authentication methods?
+    6. What happens when a user logs in?
+    7. What is Firebase Authentication?
+    8. Which authentication methods does Firebase support?
+
+## Intermediate Level:
+
+    9. How does Firebase Authentication work internally?
+    10. What is an ID Token in Firebase?
+    11. What is the difference between session-based auth and token-based auth?
+    12. What is OAuth? How is Google Sign-In related to it?
+    13. How do you implement Google login using Firebase? (high-level)
+    14. Where do you store the authenticated user in a React app?
+    15. What happens if the user refreshes the page after login?
+    16. How do you log out a user in Firebase?
+
+## Security & Best Practices (Interview Favorite):
+
+    17. How does Firebase keep passwords secure?
+    18. Can you access Firebase Authentication users from the frontend directly? Why/Why not?
+    19. What is email verification and why is it needed?
+    20. What is multi-factor authentication (MFA)?
+    21. How do you protect a private route/page?
+    22. What is onAuthStateChanged and why is it important?
+
+## Scenario-Based Questions (Very Important):
+
+    23. How would you restrict a page to logged-in users only?
+    24. How do you allow only admins to access a dashboard?
+    25. User logs in with Google but closes the browser — what happens next time?
+    26. How do you handle authentication errors (wrong password, popup blocked)?
+
+## Firebase-Specific Deep Questions:
+
+    27. Difference between signInWithPopup and signInWithRedirect?
+    28. What is Anonymous Authentication? When would you use it?
+    29. Can Firebase Authentication work without Firestore/Database?
+    30. How do you link multiple auth providers to one user?
+    31. What are Custom Claims in Firebase?
+
+## Quick One-Line Answers (Interview Style):
+
+    32. Authentication: Verifies user identity
+    33. Authorization: Controls access permissions
+    34. Firebase Auth: Managed authentication service by Google
+    35. ID Token: Proof that the user is authenticated
+    36. Protected Route: Route accessible only to authorized users
+
+
+## Common Follow-up Question:
+
+Q: Have you implemented authentication in a real project?
+Ans: “Yes, I implemented Firebase Authentication with Google and Email/Password login. I managed auth state using Context API and protected private routes.”

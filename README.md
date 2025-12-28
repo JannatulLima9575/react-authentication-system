@@ -98,6 +98,8 @@ v. Paste it inside firebase.config.js
 ```bash
 npm run dev
 
+---
+
 ## 📌 Important Learning Outcomes
 
 i. Understanding Authentication vs Authorization
@@ -106,12 +108,15 @@ iii. Managing User State in React
 iv. Implementing Protected / Private Routes
 v. Learning Real-world Authentication Workflow
 
+---
+
 ## 👩‍💻 Author
 
-Jannatul Lima
+### Jannatul Lima
 Software Engineer
 📍 Bangladesh
 
+---
 
 ### ⭐ Feedback
 

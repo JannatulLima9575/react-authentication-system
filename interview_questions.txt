@@ -58,3 +58,11 @@
 
 Q: Have you implemented authentication in a real project?
 Ans: “Yes, I implemented Firebase Authentication with Google and Email/Password login. I managed auth state using Context API and protected private routes.”
+
+## It's About Token 
+    i. What happens if a token expires?
+    ii. Where should tokens be stored securely?
+    iii. What is a token?
+    iv. Why do we use tokens instead of passwords?
+    v. What is a JWT token?
+    vi. What is Firebase ID Token?
